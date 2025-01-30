@@ -5,3 +5,4 @@ table {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* betűtípus */
     font-size: medium;  /* betűméret */
   }
+  td {background-color: aqua;}
