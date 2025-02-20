@@ -1,4 +1,4 @@
-#fejlec1 {
+#ejlec1 {
     border: 3px solid;
     background-color: rgb(255, 0, 0);
     color: blanchedalmond;
@@ -9,7 +9,7 @@
     /* betűméret */
 }
 
-#fejlec2 {
+#ejlec2 {
     border: 3px solid;
     background-color: rgba(255, 1, 242, 0.986);
     color: blanchedalmond;
@@ -20,10 +20,21 @@
     /* betűméret */
 }
 
-#megjott {
+#egjott {
     background-color: green;
 }
 
-#nemjott {
-    background-color: brown;
+#kesve_indulo_vonat {
+    background-color: rgb(189, 54, 189);
+}
+
+
+tbody tr:nth-child(even) {              
+    background-color: blue;
+}thead tr:nth-child(even) {
+    background-color: blue;
+}tbody tr:nth-child(odd) {
+    background-color: red;
+}thead tr:nth-child(odd) {
+    background-color: red;
 }
