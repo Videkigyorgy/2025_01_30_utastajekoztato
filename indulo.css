@@ -1,0 +1,29 @@
+#fejlec1 {
+    border: 3px solid;
+    background-color: rgb(255, 0, 0);
+    color: blanchedalmond;
+    /* betűszín */
+    font-family: 'Courier New', Courier, monospace;
+    /* betűstílus  */
+    font-size: 22px;
+    /* betűméret */
+}
+
+#fejlec2 {
+    border: 3px solid;
+    background-color: rgba(255, 1, 242, 0.986);
+    color: blanchedalmond;
+    /* betűszín */
+    font-family: 'Courier New', Courier, monospace;
+    /* betűstílus  */
+    font-size: 22px;
+    /* betűméret */
+}
+
+#megjott {
+    background-color: green;
+}
+
+#nemjott {
+    background-color: brown;
+}
