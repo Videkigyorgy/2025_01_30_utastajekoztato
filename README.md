@@ -3,13 +3,13 @@
 Ez a weboldal arra szolgál, hogy információt adjon minden érkező és induló vonatról. A weboldal HTML és CSS felhasználásával készült.
 
 ### 🚥 Funkciók
--Érkező és induló vonatok
--Érkező és induló vonatok idejének megjelenítése
--Késések megjelenítése
+-Érkező és induló vonatok <br>
+-Érkező és induló vonatok idejének megjelenítése <br>
+-Késések megjelenítése <br>
 
 ### 🖥️ Használat
-Meg kell látogatni a `https://videkigyorgy.github.io/2025_01_30_utastajekoztato/index.html/` linken található weboldalt
-
+Meg kell látogatni a `https://videkigyorgy.github.io/2025_01_30_utastajekoztato/index.html/` linken található weboldalt <br>
+Ha az alábbi [🪢gombra] (https://videkigyorgy.github.io/2025_01_30_utastajekoztato/) kattintva elérhetik.
 ## 🎨 CSS stílusok
 ```css
 #kesve_indulo_vonat {
